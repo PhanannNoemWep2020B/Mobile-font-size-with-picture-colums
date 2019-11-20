@@ -32,7 +32,7 @@ class _PhanannState extends State<Phanann> {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text("My Lady Shop",
+          title: Text("My love",
           style: TextStyle(fontFamily: "ladyshop", fontSize: 30.0),),
           backgroundColor: Colors.pink,
           actions: <Widget>[
